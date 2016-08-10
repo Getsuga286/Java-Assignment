@@ -1,9 +1,9 @@
 package helloworldapp;
 
 public class Employee {
-	public String firstName;
-	public String lastName;
-	public double salary;
+	String firstName;
+	String lastName;
+	double salary;
 	public Employee(){
 		firstName="";
 		lastName="";
