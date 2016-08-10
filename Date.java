@@ -2,9 +2,9 @@ package helloworldapp;
 
 public class Date {
 	
-	public int month;
-	public int day;
-	public int year;
+	int month;
+	int day;
+	int year;
 	public Date(){
 		month = 0;
 		day = 0;
